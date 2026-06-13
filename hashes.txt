@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aquella foto de nosotros
+
+This log tracks the cryptographic history and versioning for the song **Aquella foto de nosotros** (aquella-foto-de-nosotros).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T04:25:00.287673 | `v1` | `ddf664a6977a64e18e558b967a89e06ac3cec7bdca8b732f5160661e48df815a` | `be7625397c69e125ffd16a01c17297cb07bda53b3a5a259865cb540e3de86228` | `2026-06-14_aquella-foto-de-nosotros-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
