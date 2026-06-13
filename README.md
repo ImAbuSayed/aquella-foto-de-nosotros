@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/aquella-foto-de-nosotros/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Aquella foto de nosotros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-foto-de-nosotros/) |
+| **Get License** | [Obtain a Music License for Aquella foto de nosotros](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/aquella-foto-de-nosotros/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mirando aquella foto de nosotros en mi celular
+> La noche está cayendo y yo te quiero ir a buscar
+> Tú tienes ese fuego que no puedo apagar
+> Mami, ponte linda que esta noche vamos a volar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
